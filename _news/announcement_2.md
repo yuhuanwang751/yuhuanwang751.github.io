@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: I co-authored the article "Deep learning-powered efficient characterization and quantification of microplastics" which was published in Journal of Hazardous Materials (Impact Factor: 12.2).
+date: 2024-10-24 16:11:00-0400
 inline: false
 related_posts: false
 ---
