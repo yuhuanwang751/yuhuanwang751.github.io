@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: I co-authored the article “Deep learning-powered efficient characterization and quantification of microplasticsDeep learning-powered efficient characterization and quantification of microplastics. Journal of Hazardous Materials 134405.” which was published in Journal of Hazardous Materials (Impact Factor: 12.2)! 
 date: 2024-10-24 16:11:00-0400
 inline: false
 related_posts: false
