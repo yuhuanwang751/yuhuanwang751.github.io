@@ -6,7 +6,7 @@ subtitle: ~
 
 profile:
   align: right
-  image: Weixin Image_20241105170858 1.jpg
+  image: pigo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>PhD candicate</p>
